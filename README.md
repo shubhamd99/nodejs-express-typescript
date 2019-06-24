@@ -25,3 +25,5 @@ app.get('/', (req: Request, res: Response, next: NextFunction) => {
 ```
 app.use(express.static(path.join(__dirname, '../public')))
 ```
+
+![alt_img](https://i.imgur.com/VUj4A28.png)
